@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/juanm/Downloads/Proyecto/Juego.h
+
+C:/Users/juanm/Downloads/Proyecto/Principal.c
+allegro5/allegro.h
+-
+allegro5/allegro_font.h
+-
+allegro5/allegro_ttf.h
+-
+allegro5/allegro_primitives.h
+-
+allegro5/allegro_native_dialog.h
+-
+allegro5/allegro_image.h
+-
+stdatomic.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Juego.h
+C:/Users/juanm/Downloads/Proyecto/Juego.h
+
