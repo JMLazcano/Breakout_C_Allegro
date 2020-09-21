@@ -1,5 +1,5 @@
 //
-// Created by Serch And George on 04/12/2018.
+// Created by Serch And JuanMa on 04/12/2018.
 //
 
 #ifndef PRUEBAS_JUEGO_H
