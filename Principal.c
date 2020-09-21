@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Juego.h"
-
+//Created By Serg and JuanMa 2018 Breakout game
 enum KEYS{UP,DOWN,LEFT,RIGHT};
 const int width = 600;
 const int height = 764;
